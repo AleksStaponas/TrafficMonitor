@@ -14,4 +14,4 @@ Designed for fast setup, real-time viewing, and automatic CSV storage.
 - Captures TCP/UDP/ICMP packets
 - Saves logs instantly to CSV
 - Live GUI with sender/receiver/protocol info
-
+- different colored logs(in progress)
