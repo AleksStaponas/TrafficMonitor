@@ -1,5 +1,5 @@
 # TrafficMonitor
-Lightweight Python packet sniffer — real-time GUI(in progress) + instant CSV logging.
+Lightweight Python packet sniffer — real-time GUI with instant CSV logging.
 
 ## Disclaimer
 For authorized network monitoring and educational purposes only.  
