@@ -1,4 +1,4 @@
-# TrafficMonitor
+4# TrafficMonitor
 Lightweight Python packet sniffer — real-time GUI with instant CSV logging.
 
 ## Disclaimer
@@ -17,5 +17,5 @@ Designed for fast setup, real-time viewing, and automatic CSV storage.
 
 ## Planned Features
 - Different colored logs(in progress)
-- Multi-threaded scanning
+- Multi-threaded scanning(to improve speed)
 - Support for additional protocols
